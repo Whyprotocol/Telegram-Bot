@@ -1,0 +1,1 @@
+worker: python whyprotocol_gabe_bot.py
